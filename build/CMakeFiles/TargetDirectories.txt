@@ -1,3 +1,0 @@
-/home/sharpcd/Maze/build/CMakeFiles/MyExec.dir
-/home/sharpcd/Maze/build/CMakeFiles/edit_cache.dir
-/home/sharpcd/Maze/build/CMakeFiles/rebuild_cache.dir
